@@ -6,7 +6,6 @@
 
 /* more headers goes there */
 /**
- *
  * main - entry point
  *
  * *
@@ -16,7 +15,6 @@
  */
 
 int main(void)
-
 {
 int n;
 
