@@ -7,7 +7,7 @@
 /* more headers goes there */
 /**
  *
- * * main - entry point
+ * main - entry point
  *
  * *
  *
