@@ -9,15 +9,16 @@
 int main(void)
 
 {
-int i;
+int number ;
 
-for (int i = 0; i <= 9; i++)
+for (number = 48; number <= 57; number++)
 
 {
 
-putchar(i + '0');
+putchar(number);
 
-if (i != 9) {
+if (number == 57) 
+{
 
 putchar(',');
 
@@ -29,5 +30,5 @@ putchar(' ');
 
 putchar('\n');
 
-return 0;
+return (0);
 }
