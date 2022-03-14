@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (Success/correct)
  */
@@ -10,9 +10,9 @@ int main(void)
 
 {
 
-char ch ='z';
+char ch = 'z';
 
-while(ch >= 'a')
+while (ch >= 'a')
 
 {
 
