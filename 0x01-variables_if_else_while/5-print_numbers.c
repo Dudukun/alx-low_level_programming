@@ -11,11 +11,12 @@
 int main(void)
 
 {
-for (int i = 0; i <= 9; i++)
+int digit;
+for (digit = 0; digit < 10; digit++)
 
 {
 
-printf("%d", i);
+printf("%digit", digit);
 
 }
 
