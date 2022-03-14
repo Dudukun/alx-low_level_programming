@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (Success/correct)
  */
@@ -18,9 +18,9 @@ for (number = 48; number <= 57; number++)
 putchar(number);
 
 if (number == 57)
-{ 
+{
 break;
-} 
+}
 
 putchar(',');
 
