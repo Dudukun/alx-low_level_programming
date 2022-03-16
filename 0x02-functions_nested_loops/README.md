@@ -1,1 +1,1 @@
-Write a function that checks for alphabetic character
+My functions and nested loops
