@@ -10,7 +10,6 @@
 void print_alphabet(void)
 {
 int i = 0;
-print_alphabet();;
 
 while (i < 10)
 {
