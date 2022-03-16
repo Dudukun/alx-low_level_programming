@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,18 +8,16 @@
  */
 void print_alphabet_x10(void)
 {
-int alphabet;
-int count;
-
-count = 0;
-while (count < 10)
+int n, i;
+i = 0;
+while (i < 10)
 {
-for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
+for (n = 'a' ; n <= 'z'; n++)
 {
-putchar(alphabet);
+putchar(n);
 }
 
-count++;
+i++;
 putchar('\n');
 }
 
