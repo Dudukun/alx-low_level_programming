@@ -1,4 +1,3 @@
-#include <string.h>
 #include <stdio.h>
 #include "main.h"
 
@@ -7,14 +6,15 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet(void)
 {
-int n;
-print_alphabet();
-for (n = 'a'; n <= 'z'; n++)
+char alphabet;
+
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-putchar(n);
-}
+putchar(alphabet);
+	}
+
 putchar('\n');
-return (0);
+
 }
