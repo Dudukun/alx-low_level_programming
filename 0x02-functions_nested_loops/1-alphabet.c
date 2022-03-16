@@ -1,5 +1,4 @@
 #include <string.h>
-#include <stdlib.h>
 #include <stdio.h>
 #include "main.h"
 
@@ -11,7 +10,7 @@
 void print_alphabet(void)
 {
 int i = 0;
-char alphabet;
+print_alphabet();;
 
 while (i < 10)
 {
