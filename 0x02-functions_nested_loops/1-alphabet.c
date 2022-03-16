@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <stdio.h>
 #include "main.h"
 
@@ -21,4 +22,5 @@ alphabet++;
 }
 putchar('\n');
 i++;
+}
 }
