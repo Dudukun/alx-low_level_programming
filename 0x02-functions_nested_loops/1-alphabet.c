@@ -4,16 +4,15 @@
 /**
  * print_alphabet - print alphabet lowercase
  *
- * Return: Always 0.
+ * Return: Always 0 (Success).
  */
-int main (void)
+void print_alphabet(void)
 {
-char alphabet;
+int n;
 
-for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
-{
-putchar(alphabet);
-}
-
-putchar('\n');
+for (n = 'a'; n <= 'z'; n++)
+		{
+_putchar(n);
+								}
+_putchar('\n');
 }
