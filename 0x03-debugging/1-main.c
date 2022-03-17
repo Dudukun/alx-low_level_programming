@@ -7,15 +7,14 @@
 
 int main(void)
 {
-        int i;
+int i;
+printf("Infinite loop incoming :(\n");
 
-        printf("Infinite loop incoming :(\n");
-
-        i = 0;
+i = 0;
 /**
- *{
- *Infinite loop - No increase of variable
- *putchar(i);
+*{
+*Infinite loop - No increase of variable
+*putchar(i);
 }
 */
 
