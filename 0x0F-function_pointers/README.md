@@ -1,1 +1,1 @@
- contain all the function prototypes and data structures used by the program
+ a program that prints the opcodes of its own main function
