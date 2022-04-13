@@ -1,1 +1,1 @@
- function that selects the correct function to perform the operation asked by the user
+ contain all the function prototypes and data structures used by the program
