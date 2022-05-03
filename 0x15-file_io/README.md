@@ -1,1 +1,1 @@
- a function that appends text to the end of a file
+ function that copies contents of a file to another 
