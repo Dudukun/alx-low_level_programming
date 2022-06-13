@@ -1,2 +1,1 @@
-Write a function that prints n elements of an a
-rray of integers, followed by a new line.
+Write a function that convert a string to an integer
