@@ -1,1 +1,1 @@
-a function that adds an element to the hash table.
+ a function that prints a hash table.
