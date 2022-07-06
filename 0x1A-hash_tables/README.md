@@ -1,1 +1,1 @@
-a function that deletes a hash table.
+a function that retrieves a value associated with a key.
