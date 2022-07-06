@@ -1,1 +1,1 @@
-a hash function implementing the djb2 algorithm.
+a function that adds an element to the hash table.
