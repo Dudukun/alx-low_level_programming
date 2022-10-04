@@ -1,1 +1,1 @@
-Create a script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
+run two commands on the same server where the Giga Millions program runs, could you make me win the Jackpot
